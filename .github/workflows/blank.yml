@@ -18,6 +18,6 @@ jobs:
       - name: Build and push Docker images
         uses: docker/build-push-action@v4
         with:
-          context: foosballOpenshift/
+          context: ./foosball
           push: true
           tags: vtran712/foosballopenshift:${{github.run_number}}
