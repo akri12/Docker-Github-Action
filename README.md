@@ -1,7 +1,5 @@
 # Automate Docker Deployment with GitHub Actions Task #4
 
-This guide helps you automate HTML pages deployment to Docker Hub.
-
 ## Step 1: Create an empty repository on GitHub and clone it
 
 1. Create an empty repository on GitHub named `docker-github-action` (or any name of your choice).
