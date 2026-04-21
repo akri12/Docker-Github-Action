@@ -20,4 +20,4 @@ jobs:
         with:
           context: ./foosball
           push: true
-          tags: vtran712/foosballopenshift:${{github.run_number}}
+          tags: vtran712/foosballopenshift:${{github.run_number}} vtran712/foosballopenshift:latest
